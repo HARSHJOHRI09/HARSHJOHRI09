@@ -18,7 +18,7 @@ The key to meaningful analytics is to uncover stories hidden inside data.
 ### 🛠️ Skills & Tools  
 | Category | Tools |
 |-----------|-------|
-| **Data Visualization** | Power BI, Tableau, Excel, Google Looker Studio |
+| **Data Visualization** | Power BI, Tableau, Google Looker Studio |
 | **Database & Querying** | SQL, MySQL,|
 | **Data Analysis** | Excel, Python (Pandas, NumPy,Matplotlib)|
 | **Other Skills** | Data Cleaning, Dashboard Design, Business Insights, Gen Ai, Product Management |
