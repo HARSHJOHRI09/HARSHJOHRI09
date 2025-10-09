@@ -49,7 +49,7 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
   <!-- Google Looker Studio -->
 <a href="https://lookerstudio.google.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Looker.svg" alt="Google Looker Studio" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Google_Looker_Studio_Logo.svg" alt="Google Looker Studio" width="50" height="50"/>
 </a>
 
 
