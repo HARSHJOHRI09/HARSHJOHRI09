@@ -24,16 +24,11 @@ The key to meaningful analytics is to uncover stories hidden inside data.
 | **Other Skills** | Data Cleaning, Dashboard Design, Business Insights |
 
 ---
-
-### 📈 GitHub Stats  
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshjohri&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshjohri&layout=compact&theme=tokyonight)
-
 ---
 
 ### 🤝 Connect with Me  
 [![LinkedIn]https://www.linkedin.com/in/harsh-johri-818064229/ 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:johriharsh0@gmail.com)  
+GMAIL: johriharsh0@gmail.com 
 
 ---
 
