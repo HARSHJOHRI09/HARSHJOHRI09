@@ -32,7 +32,7 @@ The key to meaningful analytics is to uncover stories hidden inside data.
 ---
 
 ### 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/harshjohri)  
+[![LinkedIn]https://www.linkedin.com/in/harsh-johri-818064229/ 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:johriharsh0@gmail.com)  
 
 ---
