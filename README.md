@@ -30,6 +30,18 @@ The key to meaningful analytics is to uncover stories hidden inside data.
 ### 🤝 Connect with Me  
 LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=johriharsh0@gmail.com" target="_blank">Email Me</a>
+
+## 🧠 My Skill Set
+
+### Data Analytics
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Looker.svg" alt="Google Looker Studio" width="50" height="50"/>
+</p>
+
  
 
 ---
