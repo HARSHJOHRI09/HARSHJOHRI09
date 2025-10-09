@@ -35,13 +35,15 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
 ## 🧠 My Skill Set
 
+## 🧠 My Skill Set
+
 ### 🧩 Data Analytics
 <p align="left"> 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 
   <!-- MS Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_2019_present.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="50" height="50"/>
 
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
@@ -50,7 +52,7 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
 
   <!-- Google Looker Studio -->
-  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg" alt="Google Looker Studio" width="50" height="50"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_looker_logo_icon_171274.png" alt="Google Looker Studio" width="50" height="50"/>
 </p>
 
 ---
@@ -82,6 +84,13 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
   <!-- Notion -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="50" height="50"/>
+
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+
+  <!-- Asana -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Asana_logo.svg" alt="Asana" width="50" height="50"/>
+</p>
 
 
  
