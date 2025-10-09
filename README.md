@@ -7,11 +7,11 @@ The key to meaningful analytics is to uncover stories hidden inside data.
 ---
 
 ### 💬 About Me  
-- 🔭 I’m currently working on **Data Analytics & Visualization Projects**  
-- 🌱 I’m learning **Machine Learning & Cloud Integration for Power BI**  
+- 🔭 I’m currently working on **Data Analytics & Visualization Projects
+- 🌱 I’m Also learning: Gen Ai, Product management 
 - 💬 Ask me about **Power BI, SQL, Excel, Tableau, Python**  
-- 💡 *“I love turning data into insights 📊”*  
-- 📫 How to reach me: **[johriharsh0@gmail.com](mailto:johriharsh0@gmail.com)**  
+- 💡 I love turning data into insights 📊 
+- 📫 How to reach me: **[johriharsh0@gmail.com](mailto:johriharsh0@gmail.com) 
 
 ---
 
