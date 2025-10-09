@@ -11,7 +11,8 @@ The key to meaningful analytics is to uncover stories hidden inside data.
 - 🌱 I’m Also learning: Gen Ai, Product management 
 - 💬 Ask me about **Power BI, SQL, Excel, Tableau, Python**  
 - 💡 I love turning data into insights 📊 
-- 📫 How to reach me: **[johriharsh0@gmail.com](mailto:johriharsh0@gmail.com) 
+- 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=johriharsh0@gmail.com" target="_blank">Email Me</a>
+
 
 ---
 
