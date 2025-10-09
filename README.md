@@ -33,14 +33,56 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
 ## 🧠 My Skill Set
 
-### Data Analytics
+## 🧠 My Skill Set
+
+### 🧩 Data Analytics
 <p align="left"> 
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="50" height="50"/>
+
+  <!-- MS Excel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_2019_present.svg" alt="Excel" width="50" height="50"/>
+
+  <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+
+  <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Looker.svg" alt="Google Looker Studio" width="50" height="50"/>
+
+  <!-- Google Looker Studio -->
+  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg" alt="Google Looker Studio" width="50" height="50"/>
 </p>
+
+---
+
+### 🤖 Generative AI
+<p align="left">
+  <!-- ChatGPT -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/>
+
+  <!-- Hugging Face -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/>
+
+  <!-- Google Vertex AI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Google_Cloud_Logo.svg" alt="Vertex AI" width="50" height="50"/>
+
+  <!-- OpenAI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="50" height="50"/>
+</p>
+
+---
+
+### 💼 Product Management
+<p align="left">
+  <!-- Jira -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
+
+  <!-- Trello -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="50" height="50"/>
+
+  <!-- Notion -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="50" height="50"/>
+
 
  
 
