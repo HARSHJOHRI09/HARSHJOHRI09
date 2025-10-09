@@ -48,9 +48,8 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
 
   <!-- Google Looker Studio -->
-<!-- Google Looker Studio -->
 <a href="https://lookerstudio.google.com/">
-  <img src="https://raw.githubusercontent.com/HarshJohriAssets/logos/main/google-looker-studio.png" alt="Google Looker Studio" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlelookerstudio.svg" alt="Google Looker Studio" width="50" height="50"/>
 </a>
 
 
