@@ -33,10 +33,6 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
 ## 🧠 My Skill Set
 
-## 🧠 My Skill Set
-
-## 🧠 My Skill Set
-
 ### 🧩 Data Analytics
 <p align="left"> 
   <!-- Python -->
@@ -57,7 +53,7 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
 ---
 
-### 🤖 Generative AI
+ 🤖 Generative AI
 <p align="left">
   <!-- ChatGPT -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/>
@@ -69,7 +65,7 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
 ---
 
-### 💼 Product Management
+ 💼 Product Management
 <p align="left">
 
   <!-- Figma -->
