@@ -62,11 +62,6 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
   <!-- ChatGPT -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/>
 
-  <!-- Hugging Face -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/>
-
-  <!-- Google Vertex AI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Google_Cloud_Logo.svg" alt="Vertex AI" width="50" height="50"/>
 
   <!-- OpenAI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="50" height="50"/>
@@ -76,23 +71,11 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
 ### 💼 Product Management
 <p align="left">
-  <!-- Jira -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
-
-  <!-- Trello -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="50" height="50"/>
-
-  <!-- Notion -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="50" height="50"/>
 
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 
-  <!-- Asana -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Asana_logo.svg" alt="Asana" width="50" height="50"/>
-</p>
-
-
+ 
  
 
 ---
