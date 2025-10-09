@@ -28,7 +28,8 @@ The key to meaningful analytics is to uncover stories hidden inside data.
 
 ### 🤝 Connect with Me  
 LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/ 
-GMAIL: johriharsh0@gmail.com 
+GMAIL: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=johriharsh0@gmail.com" target="_blank">Email Me</a>
+ 
 
 ---
 
