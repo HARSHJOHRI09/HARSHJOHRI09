@@ -46,7 +46,9 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
   <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
-   https://cdn.worldvectorlogo.com/logos/postgresql.svg
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50"/>
+
+  
 
   
 
