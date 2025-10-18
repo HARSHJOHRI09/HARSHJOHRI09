@@ -49,11 +49,9 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
 Libraries
 <p align="center">
-  <img src="images/numpy.svg" alt="NumPy" width="120" />
-  <img src="images/pandas.svg" alt="Pandas" width="120" />
-  <img src="images/matplotlib.svg" alt="Matplotlib" width="120" />
-</p>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
 ---
 
  🤖 Generative AI
