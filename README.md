@@ -46,6 +46,8 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
   <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
+  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+
  
 
   
