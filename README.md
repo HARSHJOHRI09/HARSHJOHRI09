@@ -46,6 +46,13 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
   <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
+
+  <!-- MySQL -->
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="50" height="50"/>
+
+<!-- DBeaver -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/DBeaver_icon.svg" alt="DBeaver" width="50" height="50"/>
+
   
  Libraries
 <p align="center">
