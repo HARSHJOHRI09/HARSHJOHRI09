@@ -47,6 +47,12 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
   <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
 
+Libraries
+<p align="center">
+  <img src="images/numpy.png" alt="NumPy" width="120" />
+  <img src="images/pandas.png" alt="Pandas" width="120" />
+  <img src="images/matplotlib.png" alt="Matplotlib" width="120" />
+</p>
 
 ---
 
