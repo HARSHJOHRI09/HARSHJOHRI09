@@ -46,12 +46,11 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
   <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
-    <!-- Google looker studio -->
-    https://www.insightplatforms.com/wp-content/uploads/2024/01/Google-Looker-Studio-Logo-Square-Insight-Platforms.jpeg
+  
 
 
 
-Libraries
+       Libraries
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
