@@ -47,9 +47,7 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
   <!-- Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
   
-  <!-- Google Looker Studio -->
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Looker_logo.svg" alt="Google Looker Studio" width="50" height="50"/>
-
+ 
 
 
   
@@ -60,7 +58,7 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
----
+
 
  🤖 Generative AI
 <p align="left">
