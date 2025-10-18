@@ -49,9 +49,9 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
 
 Libraries
 <p align="center">
-  <img src="images/numpy.png" alt="NumPy" width="120" />
-  <img src="images/pandas.png" alt="Pandas" width="120" />
-  <img src="images/matplotlib.png" alt="Matplotlib" width="120" />
+  <img src="images/numpy.svg" alt="NumPy" width="120" />
+  <img src="images/pandas.svg" alt="Pandas" width="120" />
+  <img src="images/matplotlib.svg" alt="Matplotlib" width="120" />
 </p>
 
 ---
