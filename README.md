@@ -64,7 +64,7 @@ LinkedIn : https://www.linkedin.com/in/harsh-johri-818064229/,
   <!-- OpenAI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="50" height="50"/>
 </p>
-
+<img src="https://www.svgrepo.com/show/354596/zapier-icon.svg" alt="Zapier" width="50" height="50"/>
 ---
 
  💼 Product Management
